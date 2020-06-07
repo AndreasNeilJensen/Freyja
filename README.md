@@ -3,3 +3,4 @@ Freyja is a platforming game in which you control a duck who has to utilise its 
 
 ## Future Work
 Difficulty settings.
+Mobile controls.
